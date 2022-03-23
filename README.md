@@ -35,3 +35,6 @@ $ cd codes/
 $ iverilog -o CPU.out *.v
 $ vvp CPU.out
 ```
+
+## Report
+For detailed explanation, please refer to reports under [./docs](https://github.com/Armychais902/CA2021-Pipelined-CPU-with-Cache/tree/main/docs)
