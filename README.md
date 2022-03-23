@@ -1,4 +1,4 @@
-# Pipelined-CPU-with-Cache
+# CA2021: Pipelined CPU with Cache
 Computer Architecture, Fall 2021, combined version of HW4, Lab1 & 2
 
 ## Introduction
